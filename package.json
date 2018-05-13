@@ -1,0 +1,10 @@
+{
+  "name": "react-cli",
+  "version": "0.0.1",
+  "bin" : {
+    "react-cli": "./bin/index.js"
+  },
+  "dependencies": {
+    
+  }
+}
